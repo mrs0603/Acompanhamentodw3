@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": "1234",
+      "nome": "Jabuticaba",
+      "imagem": "https://revista.abrale.org.br/wp-content/uploads/2017/05/imagem-jabuticaba.jpg",
+      "preco": 25.31
+    },
+    {
+      "id": "12345",
+      "nome": "Pera",
+      "imagem": "https://revista.abrale.org.br/wp-content/uploads/2017/05/imagem-jabuticaba.jpg",
+      "preco": 25.31
+    },
+    {
+      "id": "123",
+      "nome": "Caqui",
+      "preco": "20",
+      "imagem": ""
+    },
+    {
+      "id": "123",
+      "nome": "Caqui",
+      "preco": "20",
+      "imagem": "https://artritereumatoide.blog.br/wp-content/uploads/2020/02/caqui-comer.jpg"
+    },
+    {
+      "id": "5142",
+      "nome": "lichia",
+      "preco": "10",
+      "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR9ZEU6Olku3HVsubKechSNSogZCqW3Zjsttth8kidjK4oJae_"
+    }
+  ]
+}
